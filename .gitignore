@@ -1,0 +1,8 @@
+.claude
+.cache
+.tmp
+.venv
+.envrc
+*.tar
+*.tar.gz
+*.sif
